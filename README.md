@@ -64,7 +64,7 @@ Tela:
 
 ![Capturar](https://github.com/TheDevCaio/Servico-Desktop-Ligas-Amadoras-De-Futebol/assets/110746976/1af2273b-a5ef-48bc-b8aa-b7529d4c046f)
 
-Imagem do Banco Funcionando: 
+Imagem do DB Funcionando: 
 
 ![Tela](https://github.com/TheDevCaio/Servico-Desktop-Ligas-Amadoras-De-Futebol/assets/110746976/a69061e9-d4c2-406f-ba59-83098b5980f8)
 
